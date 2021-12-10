@@ -1,0 +1,1237 @@
+{
+  "size": {
+    "sizes": {
+      "xxxs": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 12,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "xxs": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 16,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "xs": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 18,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "unit": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 24,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "s": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 38,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "m": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 42,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "l": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 48,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "xl": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 80,
+        "type": "number",
+        "unit": "pixel"
+      }
+    }
+  },
+  "spacing": {
+    "spacing": {
+      "padding": {
+        "big": {
+          "category": "spacing",
+          "exportKey": "spacing",
+          "top": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "right": {
+            "value": 27,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottom": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "left": {
+            "value": 27,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "medium": {
+          "category": "spacing",
+          "exportKey": "spacing",
+          "top": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "right": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottom": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "left": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "small": {
+          "category": "spacing",
+          "exportKey": "spacing",
+          "top": {
+            "value": 7,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "right": {
+            "value": 16,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottom": {
+            "value": 7,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "left": {
+            "value": 16,
+            "type": "number",
+            "unit": "pixel"
+          }
+        }
+      }
+    }
+  },
+  "border": {
+    "borders": {
+      "thin": {
+        "inverse": {
+          "category": "border",
+          "exportKey": "border",
+          "strokeAlign": {
+            "value": "inside",
+            "type": "string"
+          },
+          "dashPattern": {
+            "value": "none",
+            "type": "string"
+          },
+          "strokeCap": {
+            "value": "none",
+            "type": "string"
+          },
+          "strokeJoin": {
+            "value": "miter",
+            "type": "string"
+          },
+          "strokeMiterLimit": {
+            "value": 4,
+            "type": "number",
+            "unit": "degree"
+          },
+          "strokeWeight": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "stroke": {
+            "value": "rgba(255, 255, 255, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "thick": {
+        "inverse": {
+          "category": "border",
+          "exportKey": "border",
+          "strokeAlign": {
+            "value": "inside",
+            "type": "string"
+          },
+          "dashPattern": {
+            "value": "none",
+            "type": "string"
+          },
+          "strokeCap": {
+            "value": "none",
+            "type": "string"
+          },
+          "strokeJoin": {
+            "value": "miter",
+            "type": "string"
+          },
+          "strokeMiterLimit": {
+            "value": 4,
+            "type": "number",
+            "unit": "degree"
+          },
+          "strokeWeight": {
+            "value": 2,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "stroke": {
+            "value": "rgba(255, 255, 255, 1)",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "radius": {
+    "radii": {
+      "medium": {
+        "category": "radius",
+        "exportKey": "radius",
+        "radius": {
+          "value": 9,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "radiusType": {
+          "value": "single",
+          "type": "string"
+        },
+        "radii": {
+          "topLeft": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "topRight": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomRight": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomLeft": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "smoothing": {
+          "value": 0,
+          "type": "number"
+        }
+      },
+      "small": {
+        "category": "radius",
+        "exportKey": "radius",
+        "radius": {
+          "value": 4,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "radiusType": {
+          "value": "single",
+          "type": "string"
+        },
+        "radii": {
+          "topLeft": {
+            "value": 4,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "topRight": {
+            "value": 4,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomRight": {
+            "value": 4,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomLeft": {
+            "value": 4,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "smoothing": {
+          "value": 0,
+          "type": "number"
+        }
+      },
+      "default": {
+        "category": "radius",
+        "exportKey": "radius",
+        "radius": {
+          "value": 10,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "radiusType": {
+          "value": "single",
+          "type": "string"
+        },
+        "radii": {
+          "topLeft": {
+            "value": 10,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "topRight": {
+            "value": 10,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomRight": {
+            "value": 10,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomLeft": {
+            "value": 10,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "smoothing": {
+          "value": 0,
+          "type": "number"
+        }
+      },
+      "large": {
+        "category": "radius",
+        "exportKey": "radius",
+        "radius": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "radiusType": {
+          "value": "single",
+          "type": "string"
+        },
+        "radii": {
+          "topLeft": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "topRight": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomRight": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "bottomLeft": {
+            "value": 24,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "smoothing": {
+          "value": 0,
+          "type": "number"
+        }
+      }
+    }
+  },
+  "color": {
+    "color": {
+      "neutrals": {
+        "ink": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(18, 18, 18, 1)",
+          "type": "color"
+        },
+        "white": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(255, 255, 255, 1)",
+          "type": "color"
+        },
+        "grey": {
+          "darker": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(113, 116, 123, 1)",
+            "type": "color"
+          },
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(158, 161, 166, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(212, 213, 215, 1)",
+            "type": "color"
+          },
+          "lighter": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(248, 248, 248, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(239, 238, 238, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "primary": {
+        "green": {
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(19, 134, 113, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(23, 180, 151, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(160, 225, 213, 1)",
+            "type": "color"
+          },
+          "lighter": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(242, 248, 247, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "blue": {
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(34, 97, 175, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(36, 128, 242, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(235, 241, 249, 1)",
+            "type": "color"
+          }
+        },
+        "red": {
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(199, 39, 18, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(242, 57, 46, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(249, 211, 206, 1)",
+            "type": "color"
+          },
+          "lighter": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(249, 242, 241, 1)",
+            "type": "color"
+          }
+        },
+        "orange": {
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(183, 84, 15, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 104, 0, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(254, 240, 230, 1)",
+            "type": "color"
+          }
+        },
+        "yellow": {
+          "dark": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(205, 136, 20, 1)",
+            "type": "color"
+          },
+          "base": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(253, 175, 28, 1)",
+            "type": "color"
+          },
+          "light": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 251, 230, 1)",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "font": {
+    "font": {
+      "h1 - semibold 30": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 30,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 600,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.65,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 40,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "h2 - semibold 26": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 600,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.5,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 28,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "h3 - semibold 20": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 600,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.65,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 28,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "h4 - medium 18": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 18,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.65,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 26,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "h5 - semibold 16": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 16,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 600,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "SemiBold",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 1.33,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 22,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "h6 - medium 16": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 16,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 1.33,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 22,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "subtittle - medium 14": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 14,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.8,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 22,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "uppercase",
+          "type": "string"
+        }
+      },
+      "body - medium 14": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 14,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 0.5,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 24,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      },
+      "caption - regular 12": {
+        "category": "font",
+        "exportKey": "font",
+        "fontSize": {
+          "value": 12,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "string"
+        },
+        "fontFamily": {
+          "value": "Montserrat",
+          "type": "string"
+        },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
+        "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
+          "type": "string"
+        },
+        "letterSpacing": {
+          "value": 1,
+          "type": "number",
+          "unit": "percent"
+        },
+        "lineHeight": {
+          "value": 16,
+          "type": "number",
+          "unit": "pixels"
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "string"
+        }
+      }
+    }
+  },
+  "effect": {
+    "effect": {
+      "emphasis": {
+        "0": {
+          "category": "effect",
+          "exportKey": "effect",
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 3,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(23, 180, 151, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        }
+      },
+      "elevation": {
+        "0": {
+          "category": "effect",
+          "exportKey": "effect",
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 3,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(18, 18, 18, 0.15)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "1": {
+          "category": "effect",
+          "exportKey": "effect",
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(18, 18, 18, 0.15)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 4,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "2": {
+          "category": "effect",
+          "exportKey": "effect",
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 18,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(18, 18, 18, 0.15)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 3,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "3": {
+          "category": "effect",
+          "exportKey": "effect",
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 20,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(18, 18, 18, 0.15)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": -2,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 2,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        }
+      }
+    }
+  }
+}

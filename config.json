@@ -1,0 +1,16 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "custom/less",
+      "buildPath": "build/less/",
+      "files": [{
+        "destination": "design-tokens.less",
+        "format": "less/variables"
+      }],
+      "options": {
+        "outputReferences": true
+      }
+    }
+  }
+}

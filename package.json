@@ -1,0 +1,20 @@
+{
+  "name": "spryker-design-token",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Spryker design token",
+  "author": "Spryker Systems",
+  "license": "None",
+  "scripts": {
+    "build": "node ./build.js",
+    "clean": "rm -rf build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.0.1"
+  },
+  "main": "build.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spryker/design-tokens-poc.git"
+  }
+}
