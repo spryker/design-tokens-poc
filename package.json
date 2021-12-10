@@ -10,7 +10,8 @@
     "clean": "rm -rf build"
   },
   "devDependencies": {
-    "style-dictionary": "^3.0.1"
+    "fast-glob": "~3.2.7",
+    "style-dictionary": "~3.0.1"
   },
   "main": "build.js",
   "repository": {
