@@ -1,0 +1,47 @@
+{
+    "link": {
+      "font" : { 
+        "fontFamily": { "value": "{font.font.body - medium 14.fontFamily.value}" },
+        "fontWeight": { "value": "{font.font.body - medium 14.fontWeight.value}" },
+        "fontSize": {  "value": "{font.font.body - medium 14.fontSize.value}" },
+        "letterSpacing": { "value": "{font.font.body - medium 14.letterSpacing.value}"},
+        "lineHeight": { 
+          "value": "{font.font.body - medium 14.lineHeight.value}"
+        }
+      },
+      "font-color": {
+        "default": { "value": "{color.color.primary.green.base.value}"},
+        "hover": { "value": "{color.color.primary.green.dark.value}"},
+        "active": { "value": "{color.color.primary.green.dark.value}"},
+        "focused": { "value": "{color.color.primary.green.dark.value}"},
+        "disabled" : { "value": "{color.color.neutrals.grey.dark.value}"}
+      },
+      "border-radius" : { 
+        "active": { "value": "{radius.radii.large.radius.value}"},
+        "focused": { "value": "{radius.radii.large.radius.value}"} 
+      },
+      "background-color": {
+        "active": { "value": "{color.color.neutrals.grey.lighter.value}"},
+        "focused": { "value": "{color.color.neutrals.grey.lighter.value}"}
+      },
+      "effect": {
+        "focused" : {
+            "color": { "value": "{effect.effect.emphasis.0.color.value}"},
+            "radius": {
+              "value": "{effect.effect.emphasis.0.radius.value}"
+            },
+            "offset": {
+              "x": {
+                "value": "{effect.effect.emphasis.0.offset.x.value}"
+              },
+              "y": {
+                "value": "{effect.effect.emphasis.0.offset.y.value}"
+              }
+            },
+            "spread": {
+              "value": "{effect.effect.emphasis.0.spread.value}"
+            }
+          }
+      }
+    }
+}
